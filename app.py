@@ -157,7 +157,7 @@ links = [
     {
         "title": "⚖️ ConstitutionAI",
         "description": "AI constitutional rights and law education tool for search-and-seizure, Miranda rights, and due process scenarios.",
-        "url": "https://onstitutionai.streamlit.app"
+        "url": "https://constitutionai.streamlit.app/"
     },
 ]
 
