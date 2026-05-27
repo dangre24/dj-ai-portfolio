@@ -160,7 +160,7 @@ links = [
         "url": "https://constitutionai.streamlit.app/"
     },
     {
-        "title": "CRISPR Guide RNA Designer",
+        "title": "✂️CRISPR Guide RNA Designer",
         "description": "A Python-based CRISPR guide RNA design tool that detects PAM sites, ranks candidate guides, predicts off-target risk, and visualizes potential genome edits.",
         "url": "https://crispr-ytmd.onrender.com/"
     },
