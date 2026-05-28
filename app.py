@@ -152,7 +152,7 @@ links = [
     {
         "title": "💊 Rx Insight AI",
         "description": "AI healthcare application for medication interaction review, lifestyle factors, and biochemical risk analysis.",
-        "url": "https://rxinsight.streamlit.app"
+        "url": "https://rxinsightai.streamlit.app"
     },
     {
         "title": "⚖️ ConstitutionAI",
