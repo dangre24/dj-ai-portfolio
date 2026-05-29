@@ -138,7 +138,7 @@ a {
 st.markdown("""
 <div class="hero">
     <h1>🧬 Daniel (DJ) Greene Jr</h1>
-    <h3>Projects Portfolio</h3>
+    <h3>AI Projects Portfolio</h3>
     <p>Healthcare, laboratory science, biotech, and legal AI tools built with Python, Streamlit, and OpenAI APIs.</p>
 </div>
 """, unsafe_allow_html=True)
@@ -160,7 +160,7 @@ links = [
         "url": "https://constitutionai.streamlit.app/"
     },
     {
-        "title": "✂️CRISPR Guide RNA Designer",
+        "title": "CRISPR Guide RNA Designer",
         "description": "A Python-based CRISPR guide RNA design tool that detects PAM sites, ranks candidate guides, predicts off-target risk, and visualizes potential genome edits.",
         "url": "https://crispr-ytmd.onrender.com/"
     },
@@ -181,8 +181,6 @@ st.markdown("""
     <p>📧 djgreenedj@gmail.com</p>
     <p>📞 317-760-6807</p>
     <p>🔗 GitHub: <a href="https://github.com/dangre24" target="_blank">github.com/dangre24</a></p>
-    <p> 💼 LinkedIn: <a href="https://www.linkedin.com/in/daniel-greene-jr" target="_blank"> linkedin.com/in/daniel-greene-jr </a></p>
-
 </div>
 """, unsafe_allow_html=True)
 
