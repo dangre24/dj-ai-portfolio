@@ -139,7 +139,7 @@ st.markdown("""
 <div class="hero">
     <h1>🧬 Daniel (DJ) Greene Jr</h1>
     <h3>Project Portfolio</h3>
-    <p>Healthcare, laboratory science, biotech, and legal AI tools built with Python, Streamlit, and OpenAI APIs.</p>
+    <p>Healthcare, laboratory science, biotech, and legal AI tools built with Python, and OpenAI APIs.</p>
 </div>
 """, unsafe_allow_html=True)
 
