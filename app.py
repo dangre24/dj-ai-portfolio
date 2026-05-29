@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Daniel (DJ) Greene Jr | AI Projects",
+    page_title="Daniel (DJ) Greene Jr | Projects",
     page_icon="🧬",
     layout="centered"
 )
@@ -138,7 +138,7 @@ a {
 st.markdown("""
 <div class="hero">
     <h1>🧬 Daniel (DJ) Greene Jr</h1>
-    <h3>AI Projects Portfolio</h3>
+    <h3>Project Portfolio</h3>
     <p>Healthcare, laboratory science, biotech, and legal AI tools built with Python, Streamlit, and OpenAI APIs.</p>
 </div>
 """, unsafe_allow_html=True)
