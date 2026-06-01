@@ -181,7 +181,7 @@ st.markdown("""
     <p>📧 djgreenedj@gmail.com</p>
     <p>📞 317-760-6807</p>
     <p>🔗 GitHub: <a href="https://github.com/dangre24" target="_blank">github.com/dangre24</a></p>
-    <p>🔗 Linked In: <a href="https://www.linkedin.com/in/daniel-greene-jr/"</a></p>
+    <p>🔗 Linked In: <a href="https://www.linkedin.com/in/daniel-greene-jr/"target="_blank">linkedin.com/in/daniel-greene-jr"/</a></p>
 </div>
 """, unsafe_allow_html=True)
 
